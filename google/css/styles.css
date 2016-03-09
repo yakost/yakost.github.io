@@ -1,0 +1,266 @@
+body {
+  display: block;
+	color: #222;
+	background: #fff;
+  margin: 0;
+	font-family: arial,sans-serif;
+  margin-top: -16px;
+  width: 100%;
+}
+
+#wrapper {
+	width: 100%;
+	margin: auto;
+  display: block;
+  }
+
+#logo a img {
+margin-left: -36px;
+margin-top: 6px;
+}
+
+#tit li {
+  float: left;
+  margin: 9px 11px;
+  }
+#tit{
+    background-color: #f1f1f1;
+    height: 59px;
+    border-bottom: 1px solid #666;
+    border-color: #e5e5e5;
+  }
+
+#menu li {
+  float: left;
+  margin: 0 14px;
+	font-family: arial,sans-serif;
+	font-size: small;
+	color: #666;
+  	}
+#menu li a:hover {
+color: #171717;
+}
+#menu li a {
+  color: #666;
+	outline: none;
+	text-decoration: none;
+		}
+
+#menu {
+	padding-top: 5px;
+  padding-bottom: 12px;
+  padding-left: 113px;
+  overflow: hidden;
+  display: block;
+}
+
+#menu .active {
+    border-bottom: 3px solid #4285f4;
+    color: #4285f4;
+    font-weight: bold;
+    padding-bottom: 20px;
+    padding-left: 8px;
+    padding-right: 8px;
+    }
+#tit .inp {
+  float: right;
+  margin-right: 30px;
+  margin-top: 14px;
+}
+#menu .bott {
+  float: right;
+  margin-right: 30px;
+  margin-top: -5px;
+}
+.divider {
+  border-bottom: 1px solid #666;
+  border-color: #e5e5e5;
+  margin-top: -18px;
+  }
+
+#bar {
+  font-family: arial,sans-serif;
+  font-size: small;
+  color: #808080;
+  position: relative;
+  margin-left: 134px;
+  line-height: 43px;
+  overflow: hidden;
+}
+#base {
+  text-decoration: none;
+  font-family: arial,sans-serif;
+  font-size: small;
+  color: #222;
+  position: relative;
+  margin-left: 134px;
+  margin-top: 11px;
+  line-height: 15px;
+  overflow: hidden;
+}
+#base a {
+      color: #1a0dab;
+      text-decoration: none;
+}
+#base a:hover {
+      text-decoration: underline;
+}
+
+hr {
+  margin-left: 125px;
+  margin-top: 22px;
+}
+.hr2 {
+  margin-left: 125px;
+  margin-top: 15px;
+}
+
+.se1 {
+  display: block;
+  overflow: hidden;
+  font-size: 18px;
+  margin-left: 135px;
+  margin-top: 22px;
+  max-width: 42em;
+}
+.se1 a {
+  text-decoration: none;
+  color: #1a0dab;
+  }
+
+.se1 a:hover {
+  text-decoration: underline;
+}
+
+.lin1 {
+  height: 17px;
+  line-height: 16px;
+  font-size: 14px;
+  color: #006621;
+  font-style: normal;
+}
+.lin2 {
+  height: 17px;
+  line-height: 1.4;
+  font-size: small;
+  color: #545454;
+  }
+.lin3 {
+  height: 17px;
+  line-height: 18px;
+  font-size: 14px;
+  color: #777;
+  font-size: small;
+  margin-top: 1px;
+    }
+
+ .se1 span {
+      display: block;
+      overflow: hidden;
+      font-size: 13px;
+      color: #808080;
+      float: right;
+      margin-right: 250px;
+      margin-top: 3px;
+    }
+   .se1 a span {
+      text-decoration: none;
+      color: #808080;
+      }
+
+   .se1 a:hover span {
+      text-decoration: underline;
+}
+.nu {
+  display: block;
+  text-align: left;
+  overflow: hidden;
+  font-size: 18px;
+  line-height: 18px;
+  margin-left: 135px;
+  height: auto;
+  padding-bottom: 7px;
+  padding-top: 9px;
+  text-decoration: none;
+  color: #808080;
+}.nu a {
+  text-decoration: none;
+  color: #1a0dab;
+  }
+
+.nu a:hover {
+  text-decoration: underline;
+}
+.lin4 {
+  line-height: 20px;
+  font-size: 13px;
+  color: #1a0dab;
+  margin-top: 10px;
+  margin-right: 10px;
+  }
+  .bac {
+    text-align: left;
+    display: block;
+    font-size: 13px;
+    margin-left: 230px;
+    margin-top: 25px;
+
+      }
+  .bac a {
+        text-decoration: none;
+        color: #4285f4;
+        margin-right: 13px;
+              }
+
+  .bac a:hover {
+        text-decoration: underline;
+      }
+  #num {
+    margin-left: 36px;
+      }
+ #num span {
+   margin-left: 36px;
+ }
+
+ #foo li {
+      margin: 13px 11px;
+   }
+ #foo {
+     margin-top: 30px;
+     border-top: 1px solid #e4e4e4;
+     background-color: #f2f2f2;
+     height: 85px;
+     border-color: #e5e5e5;
+     margin-bottom: -10px;
+   }
+   footer {
+     clear: both;
+   }
+
+   #foo li {
+
+       	font-family: arial,sans-serif;
+   	font-size: small;
+   	color: #666;
+     	}
+   #foo li a:hover {
+   color: #171717;
+   }
+   #foo li a {
+    color: #666;
+   	outline: none;
+   	text-decoration: none;
+   		}
+
+   #foo {
+   	padding-top: 15px;
+    padding-left: 113px;
+    overflow: hidden;
+    display: block;
+   }
+
+   #foo li span {
+    color: #aaa
+   }
+
+      
